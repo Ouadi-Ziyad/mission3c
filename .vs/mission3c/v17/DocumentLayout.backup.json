@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|c:\\users\\z\\documents\\missions vs\\mission3c\\mission3c\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmrapports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmrapports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmvisiteurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmvisiteurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmvisiteurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmvisiteurs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmrapports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmrapports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmsupprimervisiteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmsupprimervisiteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmsupprimervisiteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmsupprimervisiteur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmaccueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmvisiteurs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmvisiteurs.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmaccueil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmaccueil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmsupprimervisiteur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmsupprimervisiteur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\frmrapports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0F4D361-E32C-4962-8FAA-EED5E399B680}|mission3c\\mission3c.csproj|solutionrelative:mission3c\\frmrapports.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmSupprimerVisiteur.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmSupprimerVisiteur.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmSupprimerVisiteur.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmSupprimerVisiteur.cs",
+              "RelativeToolTip": "mission3c\\FrmSupprimerVisiteur.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA5wEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T16:03:56.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmRapports.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmRapports.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmRapports.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmRapports.cs [Design]",
+              "RelativeToolTip": "mission3c\\FrmRapports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:07:35.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmRapports.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmRapports.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmRapports.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmRapports.cs",
+              "RelativeToolTip": "mission3c\\FrmRapports.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwIgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:08:21.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAccueil.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmAccueil.cs [Design]",
+              "RelativeToolTip": "mission3c\\FrmAccueil.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:22:03.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmVisiteurs.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmVisiteurs.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmVisiteurs.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmVisiteurs.cs*",
+              "RelativeToolTip": "mission3c\\FrmVisiteurs.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwD8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:49:54.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\Model1.edmx",
+              "RelativeDocumentMoniker": "mission3c\\Model1.edmx",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "mission3c\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-12-02T13:23:11.112Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmVisiteurs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmVisiteurs.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmVisiteurs.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmVisiteurs.cs [Design]*",
+              "RelativeToolTip": "mission3c\\FrmVisiteurs.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T15:39:24.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmSupprimerVisiteur.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmSupprimerVisiteur.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmSupprimerVisiteur.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmSupprimerVisiteur.cs [Design]",
+              "RelativeToolTip": "mission3c\\FrmSupprimerVisiteur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T15:48:51.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmAccueil.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmAccueil.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmAccueil.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmAccueil.cs",
+              "RelativeToolTip": "mission3c\\FrmAccueil.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T13:29:08.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmVisiteurs.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmVisiteurs.Designer.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmVisiteurs.Designer.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmVisiteurs.Designer.cs",
+              "RelativeToolTip": "mission3c\\FrmVisiteurs.Designer.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAAASwOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:56:02.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmAccueil.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmAccueil.Designer.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmAccueil.Designer.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmAccueil.Designer.cs",
+              "RelativeToolTip": "mission3c\\FrmAccueil.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAASwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:55:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmSupprimerVisiteur.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmSupprimerVisiteur.Designer.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmSupprimerVisiteur.Designer.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmSupprimerVisiteur.Designer.cs",
+              "RelativeToolTip": "mission3c\\FrmSupprimerVisiteur.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:53:19.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmRapports.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmRapports.Designer.cs",
+              "RelativeDocumentMoniker": "mission3c\\FrmRapports.Designer.cs",
+              "ToolTip": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\FrmRapports.Designer.cs",
+              "RelativeToolTip": "mission3c\\FrmRapports.Designer.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAASwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T13:41:07.704Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

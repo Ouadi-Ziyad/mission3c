@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c.csproj": {}
+    "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c\\mission3c.csproj": {}
   },
   "projects": {
-    "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c.csproj": {
+    "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c\\mission3c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c.csproj",
+        "projectUniqueName": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c\\mission3c.csproj",
         "projectName": "mission3c",
-        "projectPath": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c.csproj",
+        "projectPath": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c\\mission3c.csproj",
         "packagesPath": "C:\\Users\\z\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\obj\\",
+        "outputPath": "C:\\Users\\z\\Documents\\missions vs\\mission3c\\mission3c\\mission3c\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "UsingMicrosoftNETSdk": false,
